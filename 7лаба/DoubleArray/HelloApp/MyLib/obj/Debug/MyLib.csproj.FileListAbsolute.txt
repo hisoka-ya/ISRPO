@@ -1,0 +1,6 @@
+H:\ilin\7 лаба\HelloApp\MyLib\bin\Debug\MyLib.dll
+H:\ilin\7 лаба\HelloApp\MyLib\bin\Debug\MyLib.pdb
+H:\ilin\7 лаба\HelloApp\MyLib\obj\Debug\MyLib.csproj.AssemblyReference.cache
+H:\ilin\7 лаба\HelloApp\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+H:\ilin\7 лаба\HelloApp\MyLib\obj\Debug\MyLib.dll
+H:\ilin\7 лаба\HelloApp\MyLib\obj\Debug\MyLib.pdb

@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\ilin\\7 \u043B\u0430\u0431\u0430\\HelloApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45F3D61D-AD30-4951-8093-276CDE82A1DB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|h:\\ilin\\7 \u043B\u0430\u0431\u0430\\helloapp\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F3D61D-AD30-4951-8093-276CDE82A1DB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F3D61D-AD30-4951-8093-276CDE82A1DB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|H:\\ilin\\7 \u043B\u0430\u0431\u0430\\HelloApp\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45F3D61D-AD30-4951-8093-276CDE82A1DB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA09F2CE-6789-42D7-A6D1-60C6E0E08BD5}|MyLib\\ClassLibraryForArray.csproj|H:\\ilin\\7 \u043B\u0430\u0431\u0430\\HelloApp\\mylib\\intarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA09F2CE-6789-42D7-A6D1-60C6E0E08BD5}|MyLib\\ClassLibraryForArray.csproj|solutionrelative:mylib\\intarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0120C0F1-CD16-4F92-A82C-A881234F5E72}|HelloApp\\HelloApp.csproj|H:\\ilin\\7 \u043B\u0430\u0431\u0430\\HelloApp\\helloapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0120C0F1-CD16-4F92-A82C-A881234F5E72}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F3D61D-AD30-4951-8093-276CDE82A1DB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|H:\\ilin\\7 \u043B\u0430\u0431\u0430\\HelloApp\\windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F3D61D-AD30-4951-8093-276CDE82A1DB}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\ilin\\7 \u043B\u0430\u0431\u0430\\HelloApp\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "H:\\ilin\\7 \u043B\u0430\u0431\u0430\\HelloApp\\WindowsFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:42:59.152Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "H:\\ilin\\7 \u043B\u0430\u0431\u0430\\HelloApp\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "H:\\ilin\\7 \u043B\u0430\u0431\u0430\\HelloApp\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AQIAAKsBAAAAAAAAAAAiwMgBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:47:08.133Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntArray.cs",
+              "DocumentMoniker": "H:\\ilin\\7 \u043B\u0430\u0431\u0430\\HelloApp\\MyLib\\IntArray.cs",
+              "RelativeDocumentMoniker": "MyLib\\IntArray.cs",
+              "ToolTip": "H:\\ilin\\7 \u043B\u0430\u0431\u0430\\HelloApp\\MyLib\\IntArray.cs",
+              "RelativeToolTip": "MyLib\\IntArray.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:02:27.504Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "H:\\ilin\\7 \u043B\u0430\u0431\u0430\\HelloApp\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "H:\\ilin\\7 \u043B\u0430\u0431\u0430\\HelloApp\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AQIAABYBAAAAAAAAAADgvyoBAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:16:10.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\ilin\\7 \u043B\u0430\u0431\u0430\\HelloApp\\HelloApp\\Program.cs",
+              "RelativeDocumentMoniker": "HelloApp\\Program.cs",
+              "ToolTip": "H:\\ilin\\7 \u043B\u0430\u0431\u0430\\HelloApp\\HelloApp\\Program.cs",
+              "RelativeToolTip": "HelloApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:21:26.852Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

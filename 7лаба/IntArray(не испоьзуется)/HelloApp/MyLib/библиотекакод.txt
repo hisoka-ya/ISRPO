@@ -1,0 +1,223 @@
+библиотека код
+```csharp
+public override bool Equals(object obj)
+{
+    if (obj == null || GetType() != obj.GetType())
+    {
+        return false;
+    }
+
+    IntArray other = (IntArray)obj;
+
+    if (this.Length != other.Length)
+    {
+        return false;
+    }
+
+    for (int i = 0; i < this.Length; i++)
+using System;
+using System.IO;
+
+
+namespace ClassLibraryForArray
+{
+    public class IntArray
+    {
+        // Закрытые поля
+        private int[] a;
+        private int length;
+
+        // Конструкторы
+        public IntArray(int length)
+        {
+            this.length = length;
+            a = new int[length];
+        }
+        public int[] arr;
+        public IntArray(params int[] arr)
+        {
+            this.arr = arr; 
+            length = arr.Length;
+            a = new int[length];
+            for (int i = 0; i < length; i++)
+            {
+                a[i] = arr[i];
+            }
+        }
+
+        // Свойства
+        public int Length
+        {
+            get { return length; }
+        }
+
+        public int this[int i]
+        {
+            get { return a[i]; }
+            set { a[i] = value; }
+        }
+
+        // Методы класса
+        public static IntArray RandomIntArray(int length, int a, int b)
+        {
+            Random random = new Random();
+            IntArray result = new IntArray(length);
+            for (int i = 0; i < length; i++)
+            {
+                result[i] = random.Next(a, b + 1);
+            }
+            return result;
+        }
+
+        public static IntArray ArrayFromTextFile(string fileName)
+        {
+            string[] lines = File.ReadAllLines(fileName);
+            int[] arr = new int[lines.Length];
+            for (int i = 0; i < lines.Length; i++)
+            {
+                arr[i] = int.Parse(lines[i]);
+            }
+            return new IntArray(arr);
+
+        }
+
+        public static void ArrayToTextFile(IntArray arr, string fileName)
+        {
+            string[] lines = new string[arr.Length];
+            for (int i = 0; i < arr.Length; i++)
+            {
+          
+                lines[i] = (arr[i]+1).ToString() ;
+            }
+            File.WriteAllLines(fileName, lines);
+        }
+
+        public static int SumArray(IntArray arr)
+        {
+            int sum = 0;
+            for (int i = 0; i < arr.Length; i++)
+            {
+                sum += arr[i];
+            }
+            return sum;
+        }
+
+        // Операции класса
+        public static IntArray operator ++(IntArray arr)
+        {
+            IntArray result = new IntArray(arr.Length);
+            for (int i = 0; i < arr.Length; i++)
+            {
+                result[i] = arr[i] + 1;
+            }
+            return result;
+        }
+
+        public static IntArray operator +(IntArray x, int y)
+        {
+            IntArray result = new IntArray(x.Length);
+            for (int i = 0; i < x.Length; i++)
+            {
+                result[i] = x[i] + y;
+            }
+            return result;
+        }
+        // Перегрузка оператора + для сложения скаляра с массивом
+        public static IntArray operator +(int x, IntArray y)
+        {
+            int[] result = new int[y.Length];
+            for (int i = 0; i < y.Length; i++)
+            {
+                result[i] = x + y[i];
+            }
+            return new IntArray(result);
+        }
+
+        // Перегрузка оператора + для сложения двух массивов
+        public static IntArray operator +(IntArray x, IntArray y)
+        {
+            if (x.Length != y.Length)
+            {
+                throw new ArgumentException("Массивы должны быть одинаковой длины.");
+            }
+            int[] result = new int[x.Length];
+            for (int i = 0; i < x.Length; i++)
+            {
+                result[i] = x[i] + y[i];
+            }
+            return new IntArray(result);
+        }
+
+        // Перегрузка оператора -- для декремента всех элементов массива
+        public static IntArray operator --(IntArray arr)
+        {
+            int[] result = new int[arr.Length]; // Доступ к arr через arr.arr
+            for (int i = 0; i < arr.Length; i++)
+            {
+                result[i] = arr[i] - 1;
+            }
+            return new IntArray(result);
+        }
+
+        // Перегрузка оператора - для вычитания из массива скаляра
+        public static IntArray operator -(IntArray x, int y)
+        {
+            int[] result = new int[x.Length];
+            for (int i = 0; i < x.Length; i++)
+            {
+                result[i] = x[i] - y;
+            }
+            return new IntArray(result);
+        }
+
+        // Перегрузка оператора - для вычитания из скаляра массива
+        public static IntArray operator -(int x, IntArray y)
+        {
+            int[] result = new int[y.Length];
+            for (int i = 0; i < y.Length; i++)
+            {
+                result[i] = x - y[i];
+            }
+            return new IntArray(result);
+        }
+
+        // Перегрузка оператора - для вычитания из массива массива
+        public static IntArray operator -(IntArray x, IntArray y)
+        {
+            if (x.Length != y.Length)
+            {
+                throw new ArgumentException("Массивы должны быть одинаковой длины.");
+            }
+            int[] result = new int[x.Length];
+            for (int i = 0; i < x.Length; i++)
+            {
+                result[i] = x[i] - y[i];
+            }
+            return new IntArray(result);
+        }
+        public override bool Equals(object obj)
+        {
+            if (obj == null || GetType() != obj.GetType())
+            {
+                return false;
+            }
+
+            IntArray other = (IntArray)obj;
+
+            if (this.Length != other.Length)
+            {
+                return false;
+            }
+
+            for (int i = 0; i < this.Length; i++)
+            {
+                if (this[i] != other[i])
+                {
+                    return false;
+                }
+            }
+
+            return true;
+        }
+    }
+}
