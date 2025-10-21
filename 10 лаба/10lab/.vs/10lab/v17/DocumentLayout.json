@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{217E64D4-D3FB-4208-94B0-DD1E36B84208}|10lab\\10lab.csproj|H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\10lab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{217E64D4-D3FB-4208-94B0-DD1E36B84208}|10lab\\10lab.csproj|solutionrelative:10lab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217E64D4-D3FB-4208-94B0-DD1E36B84208}|10lab\\10lab.csproj|H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\10lab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217E64D4-D3FB-4208-94B0-DD1E36B84208}|10lab\\10lab.csproj|solutionrelative:10lab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3B683B-5F15-4B82-9824-5746C7EC67B1}|FormData\\FormData.csproj|H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\formdata\\formdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3B683B-5F15-4B82-9824-5746C7EC67B1}|FormData\\FormData.csproj|solutionrelative:formdata\\formdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3B683B-5F15-4B82-9824-5746C7EC67B1}|FormData\\FormData.csproj|H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\formdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3B683B-5F15-4B82-9824-5746C7EC67B1}|FormData\\FormData.csproj|solutionrelative:formdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE39876D-DACD-4091-92EE-27AE855F1C86}|ClassLibrary\\ClassLibrary.csproj|h:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE39876D-DACD-4091-92EE-27AE855F1C86}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3B683B-5F15-4B82-9824-5746C7EC67B1}|FormData\\FormData.csproj|H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\formdata\\formdata.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3B683B-5F15-4B82-9824-5746C7EC67B1}|FormData\\FormData.csproj|solutionrelative:formdata\\formdata.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3B683B-5F15-4B82-9824-5746C7EC67B1}|FormData\\FormData.csproj|H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\formdata\\formdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC3B683B-5F15-4B82-9824-5746C7EC67B1}|FormData\\FormData.csproj|solutionrelative:formdata\\formdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\10lab\\Form1.cs",
+              "RelativeDocumentMoniker": "10lab\\Form1.cs",
+              "ToolTip": "H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\10lab\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "10lab\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T10:57:01.468Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "formData.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\FormData\\formData.cs",
+              "RelativeDocumentMoniker": "FormData\\formData.cs",
+              "ToolTip": "H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\FormData\\formData.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormData\\formData.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:10:14.581Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "formData.Designer.cs",
+              "DocumentMoniker": "H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\FormData\\formData.Designer.cs",
+              "RelativeDocumentMoniker": "FormData\\formData.Designer.cs",
+              "ToolTip": "H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\FormData\\formData.Designer.cs",
+              "RelativeToolTip": "FormData\\formData.Designer.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADgvzUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:38:24.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\FormData\\Program.cs",
+              "RelativeDocumentMoniker": "FormData\\Program.cs",
+              "ToolTip": "H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\FormData\\Program.cs",
+              "RelativeToolTip": "FormData\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:54:01.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\ClassLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Class1.cs",
+              "ToolTip": "H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\ClassLibrary\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary\\Class1.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAwDIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:13:18.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\10lab\\Form1.cs",
+              "RelativeDocumentMoniker": "10lab\\Form1.cs",
+              "ToolTip": "H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\10lab\\Form1.cs",
+              "RelativeToolTip": "10lab\\Form1.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAiwJ4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:00:26.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "formData.cs",
+              "DocumentMoniker": "H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\FormData\\formData.cs",
+              "RelativeDocumentMoniker": "FormData\\formData.cs",
+              "ToolTip": "H:\\ilin\\10 \u043B\u0430\u0431\u0430\\10lab\\FormData\\formData.cs",
+              "RelativeToolTip": "FormData\\formData.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAArwCcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:23:03.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

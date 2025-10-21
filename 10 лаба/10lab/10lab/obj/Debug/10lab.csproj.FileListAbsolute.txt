@@ -1,0 +1,16 @@
+H:\ilin\10 лаба\10lab\10lab\obj\Debug\10lab.csproj.AssemblyReference.cache
+H:\ilin\10 лаба\10lab\10lab\obj\Debug\_10lab.Form1.resources
+H:\ilin\10 лаба\10lab\10lab\obj\Debug\_10lab.Properties.Resources.resources
+H:\ilin\10 лаба\10lab\10lab\obj\Debug\10lab.csproj.GenerateResource.cache
+H:\ilin\10 лаба\10lab\10lab\obj\Debug\10lab.csproj.CoreCompileInputs.cache
+H:\ilin\10 лаба\10lab\10lab\bin\Debug\10lab.exe.config
+H:\ilin\10 лаба\10lab\10lab\bin\Debug\10lab.exe
+H:\ilin\10 лаба\10lab\10lab\bin\Debug\10lab.pdb
+H:\ilin\10 лаба\10lab\10lab\obj\Debug\10lab.exe
+H:\ilin\10 лаба\10lab\10lab\obj\Debug\10lab.pdb
+H:\ilin\10 лаба\10lab\10lab\bin\Debug\ClassLibrary.dll
+H:\ilin\10 лаба\10lab\10lab\bin\Debug\ClassLibrary.pdb
+H:\ilin\10 лаба\10lab\10lab\obj\Debug\10lab.csproj.Up2Date
+H:\ilin\10 лаба\10lab\10lab\bin\Debug\FormData.exe
+H:\ilin\10 лаба\10lab\10lab\bin\Debug\FormData.pdb
+H:\ilin\10 лаба\10lab\10lab\bin\Debug\FormData.exe.config

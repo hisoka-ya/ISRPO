@@ -1,0 +1,6 @@
+H:\ilin\10 лаба\10lab\ClassLibrary\bin\Debug\ClassLibrary.dll
+H:\ilin\10 лаба\10lab\ClassLibrary\bin\Debug\ClassLibrary.pdb
+H:\ilin\10 лаба\10lab\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+H:\ilin\10 лаба\10lab\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+H:\ilin\10 лаба\10lab\ClassLibrary\obj\Debug\ClassLibrary.dll
+H:\ilin\10 лаба\10lab\ClassLibrary\obj\Debug\ClassLibrary.pdb
